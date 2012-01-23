@@ -1,6 +1,6 @@
 #summary Documentation
 
-This project is not maintain by AMD guys but by few people findind that it is convenient to keep this tools update with new features.
+This project is not maintain by AMD guys but by few people finding that it is convenient to keep this tools update with new features.
 That's why we refer to it by the term "Modified Cubemapgen".
 
 Sebastien Lagarde add some new features to the original cubemapgen which are describe on the following blog:
