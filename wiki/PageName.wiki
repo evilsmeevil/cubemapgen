@@ -4,7 +4,7 @@ This project is not maintain by AMD guys but by few people finding that it is co
 That's why we refer to it by the term "Modified Cubemapgen".
 
 Sebastien Lagarde add some new features to the original cubemapgen which are describe on the following blog:
-http://seblagarde.wordpress.com/2012/01/12/amd-cubemapgen-for-physically-based-rendering/
+http://seblagarde.wordpress.com/2012/02/26/amd-cubemapgen-for-physically-based-rendering/
 
 For original AMD cubemapgen documentation, please refer to the original AMD website.
 
