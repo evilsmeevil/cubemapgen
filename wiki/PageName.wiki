@@ -6,6 +6,6 @@ That's why we refer to it by the term "Modified Cubemapgen".
 Sebastien Lagarde add some new features to the original cubemapgen which are describe on the following blog:
 http://seblagarde.wordpress.com/2012/02/26/amd-cubemapgen-for-physically-based-rendering/
 
-For original AMD cubemapgen documentation, please refer to the original AMD website.
+For original AMD cubemapgen documentation, please refer to the original AMD website. (http://developer.amd.com/archive/gpu/cubemapgen/Pages/default.aspx)
 
 There can be other project based on the AMD source code. We are not supported by AMD at all.
